@@ -1,0 +1,8 @@
+C:\Users\absju\Documents\Ambiente de proejtos GitHub\Banco de dados\Banco de dados\Banco de dados\Banco de dados\bin\Debug\Banco de dados.exe.config
+C:\Users\absju\Documents\Ambiente de proejtos GitHub\Banco de dados\Banco de dados\Banco de dados\Banco de dados\bin\Debug\Banco de dados.exe
+C:\Users\absju\Documents\Ambiente de proejtos GitHub\Banco de dados\Banco de dados\Banco de dados\Banco de dados\bin\Debug\Banco de dados.pdb
+C:\Users\absju\Documents\Ambiente de proejtos GitHub\Banco de dados\Banco de dados\Banco de dados\Banco de dados\obj\Debug\Banco de dados.csproj.AssemblyReference.cache
+C:\Users\absju\Documents\Ambiente de proejtos GitHub\Banco de dados\Banco de dados\Banco de dados\Banco de dados\obj\Debug\Banco de dados.csproj.SuggestedBindingRedirects.cache
+C:\Users\absju\Documents\Ambiente de proejtos GitHub\Banco de dados\Banco de dados\Banco de dados\Banco de dados\obj\Debug\Banco de dados.csproj.CoreCompileInputs.cache
+C:\Users\absju\Documents\Ambiente de proejtos GitHub\Banco de dados\Banco de dados\Banco de dados\Banco de dados\obj\Debug\Banco de dados.exe
+C:\Users\absju\Documents\Ambiente de proejtos GitHub\Banco de dados\Banco de dados\Banco de dados\Banco de dados\obj\Debug\Banco de dados.pdb
