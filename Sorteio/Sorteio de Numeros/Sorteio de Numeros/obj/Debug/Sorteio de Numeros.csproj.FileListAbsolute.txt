@@ -1,0 +1,8 @@
+C:\Users\absju\Documents\Ambiente de proejtos GitHub\Sorteio\Sorteio de Numeros\Sorteio de Numeros\obj\Debug\Sorteio de Numeros.csproj.AssemblyReference.cache
+C:\Users\absju\Documents\Ambiente de proejtos GitHub\Sorteio\Sorteio de Numeros\Sorteio de Numeros\obj\Debug\Sorteio de Numeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\absju\Documents\Ambiente de proejtos GitHub\Sorteio\Sorteio de Numeros\Sorteio de Numeros\obj\Debug\Sorteio de Numeros.csproj.CoreCompileInputs.cache
+C:\Users\absju\Documents\Ambiente de proejtos GitHub\Sorteio\Sorteio de Numeros\Sorteio de Numeros\bin\Debug\Sorteio de Numeros.exe.config
+C:\Users\absju\Documents\Ambiente de proejtos GitHub\Sorteio\Sorteio de Numeros\Sorteio de Numeros\bin\Debug\Sorteio de Numeros.exe
+C:\Users\absju\Documents\Ambiente de proejtos GitHub\Sorteio\Sorteio de Numeros\Sorteio de Numeros\bin\Debug\Sorteio de Numeros.pdb
+C:\Users\absju\Documents\Ambiente de proejtos GitHub\Sorteio\Sorteio de Numeros\Sorteio de Numeros\obj\Debug\Sorteio de Numeros.exe
+C:\Users\absju\Documents\Ambiente de proejtos GitHub\Sorteio\Sorteio de Numeros\Sorteio de Numeros\obj\Debug\Sorteio de Numeros.pdb

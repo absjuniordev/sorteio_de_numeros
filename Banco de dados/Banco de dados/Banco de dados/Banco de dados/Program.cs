@@ -122,7 +122,7 @@ namespace nomes
                     default:
                         Console.WriteLine("Opção ivalida");
                         break;
-                        Console.WriteLine("|-----------------------------------------------|");
+                 
                 }
                 Console.ReadLine();
                 Console.Clear();
