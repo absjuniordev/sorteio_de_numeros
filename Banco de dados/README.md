@@ -2,4 +2,5 @@
 
 ### Criação de banco de dados 
 
-- Nome
+- Nome;
+- Telefone
