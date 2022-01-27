@@ -16,10 +16,10 @@ namespace Sorteio_de_Numeros
                 Console.WriteLine("==== Jogo de dados =======");
                 Random dice = new Random();
                 //Classe (Rondom) variavel referencia (dice) reserva de espaço nameria para o tipo da classe (new)
-                int roll1 = dice.Next(1, 7);
+                int roll1 = dice.Next(1, 8);
                 //(roll1) receberá os valores de metodo (Next) do (dice) que recebe os parametro (())  
-                int roll2 = dice.Next(1, 7);
-                int roll3 = dice.Next(1, 7);
+                int roll2 = dice.Next(1, 8);
+                int roll3 = dice.Next(1, 8);
 
                 int total = roll1 + roll2 + roll3;
 
